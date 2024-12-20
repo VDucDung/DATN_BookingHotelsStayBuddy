@@ -1,0 +1,430 @@
+{
+  "pageTitle": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "contact": "Liên hệ",
+    "product": "Sản phẩm",
+    "other": "Khác",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "test": "TEST",
+    "cart": "Giỏ hàng",
+    "search": "Tìm kiếm",
+    "checkout": "Thanh toán",
+    "profile": "Trang cá nhân",
+    "title": "Booking Hotels"
+  },
+  "home": {
+    "category": {
+      "ca01": "Khám phá Việt Nam",
+      "ca02": "Các điểm đến phổ biến này có nhiều điều chờ đón bạn"
+    },
+    "favoriteCardList": {
+      "fa01": "Nhà ở mà khách yêu thích"
+    },
+    "hotelCardList": {
+      "ho01": "Bạn có còn quan tâm đến những chỗ nghỉ này?"
+    },
+    "relatedProducts": {
+      "re01": "Danh sách nhà nghỉ mới nhất"
+    },
+    "hotelOldCardList": {
+      "ho01": "Lưu trú tại các chỗ nghỉ độc đáo hàng đầu",
+      "ho02": "Từ nhà nghỉ truyền thống, hay các nhà nghỉ với truyền thống lâu đời"
+    },
+    "email": {
+      "title": "Đăng ký email nhận tin khuyến mãi",
+      "inputPlaceholder": "Nhập email của bạn..."
+    },
+    "trendingDestinations": {
+      "title1": "Trending Destinations",
+      "desc1": "View all",
+      "title2": "View All",
+      "desc2": "Trending Destinations",
+      "title3": "Trending Destinations",
+      "desc3": "View all"
+    }
+  },
+  "detailPage": {
+    "de01": "Tổng quan",
+    "de02": "Phòng",
+    "de03": "Vị trí",
+    "de04": "Tiện ích",
+    "de05": "Đánh giá"
+  },
+  "partnership": {
+    "banner": {
+      "title01": "Đăng nhà nghỉ dưỡng của Quý vị trên Booking hotel StayBuddy",
+      "title02": "Dù host là nghệ tay trái hay công việc toàn thời gian, hãy đăng nhà của bạn ngay hôm nay và nhanh chóng có thêm nguồn thu nhập.",
+      "title03": "Đăng ký miễn phí",
+      "title04": "45% host nhận được đơn đặt dịch vụ trong vòng 1 tuần",
+      "title05": "Chọn một trong hai cách nhận đơn đặt: xác nhận tự động hay xem trước để duyệt",
+      "title06": "Chúng tôi sẽ lý thanh toán hay Quý vị",
+      "title07": "Bắt đầu ngay"
+    },
+    "section1": {
+      "title01": "An tâm đăng chỗ nghỉ",
+      "title02": "Thanh toán cho hư hại",
+      "title03": "Chương trình đền bù hư hại của chúng tôi chi trả cho chỗ nghỉ trong trường hợp xảy ra hư hại.",
+      "title04": "Nhận tiền thanh toán đều đặn và an toàn",
+      "title05": "Được đảm bảo thanh toán và bảo vệ trước gian lận nhờ dịch vụ",
+      "title06": "Thanh toán bởi booking hotels StayBuddy",
+      "title07": "Quy tắc chung của chỗ nghỉ",
+      "title08": "Cho khách tiềm năng biết về các quy tắc chung của chỗ nghỉ mà khách phải đồng ý để có thể đặt chỗ.",
+      "title09": "Khách đã được xác thực",
+      "title10": "Chúng tôi xác minh địa chỉ email và thẻ tín dụng của khách cho các đối tác sử dụng",
+      "title11": "Thanh toán bởi booking hotels StayBuddy",
+      "title12": "Chọn cách nhận đơn đặt mong muốn",
+      "title13": "Nhận ngay đơn đặt của khách hoặc",
+      "title14": "xem xét các yêu cầu đặt chỗ",
+      "title15": "trước khi chấp nhận.",
+      "title16": "Hỗ trợ mạnh mẽ",
+      "title17": "Hỗ trợ bằng 45 ngôn ngữ và quản lý chỗ nghỉ thông qua Pulse, ứng dụng dành cho đối tác của chúng tôi.",
+      "title18": "Bảo vệ trước các khiếu nại trách nhiệm",
+      "title19": "Được bảo vệ trước các khiếu nại trách nhiệm từ khách và hàng xóm với giá trị lên đến 1.000.000 EUR/GBP/USD cho mỗi đơn đặt."
+    },
+    "section2": {
+      "title01": "Nổi bật ngay từ đầu",
+      "title02": "Nhập đánh giá dành cho chỗ nghỉ",
+      "title03": "Chúng tôi nhập điểm đánh giá từ các nền tảng khác và hiển thị điểm trong trang chỗ nghỉ của quý vị trên booking hotels StayBuddy.",
+      "title04": "Nhập thông tin chỗ nghỉ",
+      "title05": "Dễ dàng nhập thông tin của chỗ nghỉ và đồng bộ lịch phòng trống với các nền tảng khác, tránh tình trạng đặt phòng trùng lặp.",
+      "title06": "Nổi bật trên thị trường",
+      "title07": "Nhãn 'Mới trên booking hotel StayBuddy' giúp chỗ nghỉ nổi bật trong kết quả tìm kiếm."
+    },
+    "section3": {
+      "title01": "Chia sẻ từ các host khác",
+      "title02": "Tôi có thể đăng trong vòng 15 phút và không quá hai giờ sau, tôi đã có đơn đặt phòng đầu tiên!",
+      "title03": "Vũ Dũng",
+      "title04": "Host ở Hà nội, Việt Nam",
+      "title05": "booking hotel StayBuddy chiếm lượng tỉ lệ lớn nhất trong tổng lượng khách của chỗ nghỉ và đã giúp chúng tôi gặt hái được thành quả như hôm nay.",
+      "title06": "Vũ Linh",
+      "title07": "Host ở Bắc Ninh, Việt Nam",
+      "title08": "booking hotel StayBuddy là nền tảng dễ hiểu, dễ làm việc nhất. Điều này tạo điều kiện để chúng tôi tập trung vào những khía cạnh mà mình có thể thực sự mang đến thêm giá trị.",
+      "title09": "Mạnh Đức",
+      "title10": "Host ở Sài Gòn, Việt Nam",
+      "title11": "Du khách đến từ khắp nơi trên thế giới và booking hotel StayBuddy đã góp phần rất nhiều trong việc này.",
+      "title12": "Nguyễn Hoàng",
+      "title13": "Host ở Đà Nẵng, Việt Nam",
+      "title14": "Sau khi hoàn tất cài đặt chỗ nghỉ trên Booking.com, tỉ lệ lấp phòng tăng vọt và khách đặt trước từ 5-6 tháng.",
+      "title15": "Phạm Chiến",
+      "title16": "Host ở Vũng Tàu, Việt Nam",
+      "title17": "Quá trình bắt đầu sử dụng booking hotel StayBuddy vô cùng đơn giản và không hề tốn thời gian.",
+      "title18": "Anh Đức",
+      "title19": "Host ở Quảng Ninh, Việt Nam"
+    },
+    "section4": {
+      "title01": "Nếu khách làm hư hỏng chỗ nghỉ của tôi thì sao?",
+      "title02": "Chủ chỗ nghỉ có thể yêu cầu khách đặt cọc để phòng hư hại. Các khoản đặt cọc này giúp bù đắp những hư hại do khách gây ra, để Quý vị an tâm rằng chỗ nghỉ của mình sẽ được sử dụng một cách đúng mực. Nếu có vấn đề xảy ra, Quý vị có thể báo cáo hành vi sai phạm.",
+      "title03": "Khi nào chỗ nghỉ của tôi sẽ được online?",
+      "title04": "Sau khi hoàn tất việc tạo đăng ký chỗ nghỉ, Quý vị có thể mở chỗ nghỉ để nhận đặt phòng trên trang của chúng tôi. Chúng tôi có thể yêu cầu Quý vị xác minh chỗ nghỉ trước khi có thể bắt đầu nhận đặt phòng, nhưng Quý vị có thể tận dụng thời gian này để làm quen với extranet của chúng tôi và chuẩn bị tiếp đón những vị khách đầu tiên của mình.",
+      "title05": "Quý vị vẫn còn thắc mắc? Tìm giải đáp cho tất cả câu hỏi của Quý vị trên trang",
+      "title06": "Những câu hỏi thường gặp",
+      "title07": "của chúng tôi"
+    },
+    "signup": {
+      "title01": "Tạo tài khoản đối tác",
+      "title02": "Tạo tài khoản để đăng ký và quản lý chỗ nghỉ.",
+      "title03": "Địa chỉ email",
+      "title04": "Tiếp tục",
+      "title05": "Quý vị có thắc mắc về chỗ nghỉ của mình hay extranet? Hãy ghé thăm",
+      "title06": "Trung tâm Trợ giúp Đối tác",
+      "title07": "để tìm hiểu thêm",
+      "title08": "Đăng nhập",
+      "title09": "Qua việc đăng nhập hoặc tạo tài khoản, bạn đồng ý với các",
+      "title10": "Điều khoản và Điều kiện",
+      "title11": "cũng như",
+      "title12": "Chính sách An toàn và Bảo mật",
+      "title13": "của chúng tôi",
+      "title14": "Bảo lưu mọi quyền.",
+      "title15": "Bản quyền (2024) - booking hotels StayBuddy",
+      "invalidEmail": "Vui lòng nhập địa chỉ email hợp lệ"
+    },
+    "contact": {
+      "title01": "Thông tin liên lạc",
+      "title02": "Để tài khoản Booking.com của bạn được bảo mật, chúng tôi cần biết họ tên đầy đủ và số điện thoại của bạn.",
+      "title03": "Họ tên",
+      "title04": "Họ",
+      "title05": "Số điện thoại",
+      "title06": "Chúng tôi sẽ gửi mã xác thực 2 yếu tố đến số này khi Quý vị đăng nhập.",
+      "title07": "Tiếp theo"
+    },
+    "password": {
+      "title01": "Tạo mật khẩu",
+      "title02": "Dùng ít nhất 10 ký tự, trong đó có chữ hoa, chữ thường và số.",
+      "title03": "Mật khẩu",
+      "title04": "Nhập lại mật khẩu",
+      "title05": "Xác nhận mật khẩu",
+      "title06": "Nhập lại mật khẩu",
+      "title07": "Tạo tài khoản",
+      "title08": "Đăng nhập",
+      "title09": "Qua việc đăng nhập hoặc tạo tài khoản, bạn đồng ý với các",
+      "title10": "Điều khoản và Điều kiện",
+      "title11": "cũng như",
+      "title12": "Chính sách An toàn và Bảo mật",
+      "title13": "của chúng tôi"
+    },
+    "verify": {
+      "title01": "Xác minh tài khoản",
+      "title02": "Chúng tôi đã gửi email có đường dẫn xác minh đến",
+      "title03": "Để xác minh tài khoản vui lòng nhấn đường dẫn trong email chúng tôi vừa gửi."
+    },
+    "signin": {
+      "title01": "Đăng nhập để quản lý chỗ nghỉ",
+      "title03": "Địa chỉ email",
+      "title04": "Kế tiếp",
+      "title05": "Quý vị có thắc mắc về chỗ nghỉ của mình hay extranet? Hãy ghé thăm",
+      "title06": "Trung tâm Trợ giúp Đối tác",
+      "title07": "để tìm hiểu thêm.",
+      "title08": "Tạo tài khoản đối tác",
+      "title09": "Qua việc đăng nhập hoặc tạo tài khoản, bạn đồng ý với các",
+      "title10": "Điều khoản và Điều kiện",
+      "title11": "cũng như",
+      "title12": "Chính sách An toàn và Bảo mật",
+      "title13": "của chúng tôi",
+      "title14": "Bảo lưu mọi quyền.",
+      "title15": "Bản quyền (2024) - booking hotels StayBuddy",
+      "invalidEmail": "Vui lòng nhập địa chỉ email hợp lệ",
+      "password": {
+        "title01": "Nhập mật khẩu của bạn",
+        "title02": "Vui lòng nhập mật khẩu Booking.com của bạn cho",
+        "title03": "Mật khẩu",
+        "title04": "Nhập mật khẩu của bạn",
+        "title05": "Đăng nhập",
+        "title06": "Quên mật khẩu?",
+        "title07": "Qua việc đăng nhập hoặc tạo tài khoản, bạn đồng ý với các",
+        "title08": "Điều khoản và Điều kiện",
+        "title09": "cũng như",
+        "title10": "Chính sách An toàn và Bảo mật",
+        "title11": "của chúng tôi",
+        "title12": "Bảo lưu mọi quyền.",
+        "title13": "Bản quyền (2024) - booking hotels StayBuddy"
+      }
+    },
+    "se01": "An tâm đăng chỗ nghỉ",
+    "se02": "Nổi bật ngay từ đầu",
+    "se03": "Chia sẻ từ các host khác",
+    "se04": "Giải đáp thắc mắc"
+  },
+  "header": {
+    "na01": "Đăng chỗ nghỉ của Quý vị",
+    "na02": "Đăng nhập/Đăng ký",
+    "na03": "Danh sách yêu thích của bạn",
+    "na04": "Tìm chỗ nghỉ tiếp theo",
+    "na05": "Tìm ưu đãi khách sạn, chỗ nghỉ và nhiều hơn nữa...",
+    "na06": "Bạn muốn đi đâu?",
+    "na07": "Người lớn",
+    "na08": "Trẻ em",
+    "na09": "Phòng",
+    "na10": "Tìm kiếm"
+  },
+  "errors": {
+    "err01": "Vui lòng nhập email.",
+    "err02": "Email không đúng, vui lòng nhập lại.",
+    "err03": "Vui lòng nhập mật khẩu.",
+    "err04": "Mật khẩu phải chứa ít nhất 8 ký tự và 1 ký tự đặc biệt @-_",
+    "err05": "Vui lòng nhập họ tên",
+    "err06": "Mật khẩu xác nhận sai, vui lòng nhập lại",
+    "err07": "Vui lòng nhập lại mật khẩu",
+    "err08": "Số điện thoại không đúng, vui lòng nhập lại",
+    "err09": "Vui lòng nhập nội dung",
+    "err10": "Nội dung từ 5 đến 500 ký tự",
+    "err11": "Vui lòng nhập Email",
+    "err12": "Mật khẩu không khớp",
+    "phoneNumber": {
+      "err01": "Vui lòng nhập số điện thoại của bạn.",
+      "err02": "Số điện thoại không hợp lệ."
+    },
+    "fullName": {
+      "err01": "Vui lòng nhập họ và tên của bạn."
+    },
+    "birthDay": {
+      "err01": "Vui lòng nhập ngày sinh của bạn.",
+      "err02": "Ngày sinh không được sau ngày hôm nay.",
+      "err03": "Bạn phải ít nhất 18 tuổi để sử dụng dịch vụ của chúng tôi.",
+      "err04": "Rất tiếc, bạn đã quá tuổi để sử dụng dịch vụ của chúng tôi."
+    },
+    "password": {
+      "err01": "Mật khẩu phải có ít nhất 8 ký tự và chứa ít nhất 1 ký tự đặc biệt.",
+      "err02": "Mật khẩu xác nhận không khớp."
+    }
+  },
+  "login": {
+    "heading": "Đăng nhập",
+    "desc01": "Chào mừng bạn quay trở lại. Đăng nhập để tiếp tục đặt phòng.",
+    "desc02": "Bạn chưa có tài khoản",
+    "notify01": "Đăng nhập thành công",
+    "notify02": "Đăng xuất thành công",
+    "notify03": "Bạn đã đăng nhập rồi",
+    "notify04": "Email or password không đúng",
+    "notify05": "Vui lòng nhập đầy đủ thông tin"
+  },
+  "register": {
+    "heading": "Đăng ký",
+    "desc01": "Hãy bắt đầu tạo một tài khoản mới để trải nghiệm đầy đủ các tính năng và dịch vụ của chúng tôi.",
+    "desc02": "Bạn đã có tài khoản",
+    "notify": "Đăng ký thành công, vui lòng kiểm tra email"
+  },
+  "footer": {
+    "na01": "Giới thiệu",
+    "na02": "Trợ giúp",
+    "na03": "Điều khoản sử dụng",
+    "na04": "Chính sách bảo mật",
+    "na05": "Liên hệ với chúng tôi",
+    "na06": "Câu hỏi thường gặp",
+    "na07": "Trở thành đối tác của chúng tôi",
+    "na08": "Đăng chỗ nghỉ của Quý vị",
+    "na09": "Bản quyền © 2024 Booking Hotels. Bảo lưu mọi quyền."
+  },
+  "button": {
+    "btn01": "Thanh toán",
+    "btn02": "Đăng nhập để đặt phòng",
+    "btn03": "Xóa tất cả",
+    "btn04": "Đăng nhập",
+    "btn05": "Đăng nhập với Google",
+    "btn06": "Đăng ký",
+    "btn07": "Gửi mã xác nhận",
+    "btn08": "Đang gửi mã xác nhận ...",
+    "btn09": "Xác minh",
+    "btn10": "Đang xác minh ...",
+    "btn11": "Đặt lại",
+    "btn12": "Quay lại trang chủ",
+    "btn13": "Tìm hiểu thêm",
+    "btn14": "Gửi",
+    "btn15": "Hoàn thành",
+    "btn16": "Xóa",
+    "btn17": "Lưu Thông Tin",
+    "btn18": "Hủy"
+  },
+  "form": {
+    "tp01": "Email",
+    "tp02": "Mật khẩu",
+    "tp03": "Họ tên",
+    "tp04": "Nhập lại mật khẩu",
+    "tp05": "Điện thoại",
+    "tp06": "Nội dung",
+    "lb01": "Hiển thị mật khẩu"
+  },
+  "forgot-password": {
+    "heading": "Khôi phục mật khẩu",
+    "desc01": "Gửi mã xác nhận quên mật khẩu qua email.",
+    "desc02": "Bạn đã nhớ mật khẩu"
+  },
+  "verify-otp": {
+    "heading": "Xác minh mã OTP",
+    "desc01": "Nhập mã OTP được gửi tới email của bạn."
+  },
+  "reset-password": {
+    "heading": "Đặt lại mật khẩu",
+    "desc01": "Vui lòng nhập mật khẩu mới của bạn vào ô bên dưới."
+  },
+  "user-options": {
+    "op01": "Trang cá nhân",
+    "op02": "Vé của tôi",
+    "op03": "Đăng xuất",
+    "op04": "Bảng điều khiển"
+  },
+  "profile": {
+    "registered": "Đăng ký: ",
+    "fullName": "Họ tên:",
+    "email": "Email:",
+    "phoneNumber": "Số điện thoại:",
+    "birthDay": "Ngày sinh:",
+    "oldPassword": "Mật khẩu cũ:",
+    "newPassword": "Mật khẩu mới:",
+    "confirmPassword": "Xác nhận mật khẩu mới:",
+    "info": "Thông tin tài khoản",
+    "passwordChange": "Đổi mật khẩu",
+    "navTitle01": "Quản lý tài khoản",
+    "navTitle02": "Hỗ trợ khác hàng",
+    "navTitle03": "Đơn mua & Nạp tiền",
+    "nav01": "Thông tin cá nhân",
+    "nav02": "Đổi mật khẩu",
+    "nav03": "Trợ giúp",
+    "nav04": "Điều khoản sử dụng",
+    "nav05": "Bảo mật 2 lớp",
+    "nav06": "Đơn mua",
+    "nav07": "Nạp tiền",
+    "btn-update": "Cập Nhật",
+    "btn-cancel": "Hủy",
+    "btn-edit": "Chỉnh sửa",
+    "btn-select-img": "Chọn ảnh",
+    "toast": {
+      "noChanged": "Không có thay đổi nào được thực hiện.",
+      "noExactly": "Vui lòng kiểm tra lại thông tin và nhập đúng định dạng.",
+      "successed": "Cập nhật thành công.",
+      "error": "Cập nhật thất bại.",
+      "noExactlyPasswords": "Mật khẩu cũ không chính xác"
+    }
+  },
+  "hotelDetails": {
+    "overview": {
+      "title01": "Chọn phòng"
+    },
+    "room": {
+      "title01": "Đặt phòng",
+      "title02": "Xem chi tiết phòng"
+    }
+  },
+  "dashboard": {
+    "title01": "Bảng điều khiển",
+    "title02": "Đơn đặt phòng",
+    "title03": "Khách sạn",
+    "title04": "Loại phòng",
+    "title05": "Phòng",
+    "title06": "Đánh giá",
+    "booking": {
+      "title01": "Cập nhập đơn đặt phòng",
+      "title02": "Tên khách hàng",
+      "title03": "Tiện ích",
+      "title04": "Giờ nhận phòng",
+      "title05": "Giờ trả phòng",
+      "title06": "Ngày nhận phòng",
+      "title07": "Ngày trả phòng",
+      "title08": "Giá",
+      "title09": "Phương thức thanh toán",
+      "title10": "Trang thái thanh toán",
+      "title11": "Đã trả",
+      "title12": "Đang đợi",
+      "title13": "Hủy",
+      "title14": "Lưu",
+      "title15": "Sức chứa",
+      "title16": "Tên phòng",
+      "title17": "Ngày đặt phòng",
+      "title18": "Ngày nhận phòng",
+      "title19": "Ngày trả phòng",
+      "title20": "Giá"
+    },
+    "hotel": {
+      "title01": "Khách sạn",
+      "title02": "Thêm khách sạn"
+    },
+    "confirmDelete": {
+      "title01": "Xác nhận xóa",
+      "title02": "Bạn có chắc chắn muốn xóa? Sau khi xóa, không thể khôi phục đơn đặt phòng.",
+      "title03": "Hủy",
+      "title04": "Xác nhận"
+    }
+  },
+  "reqquired": {
+    "err01": "Fullname là bắt buộc.",
+    "err02": "Email là bắt buộc.",
+    "err03": "Email is không đúng."
+  },
+  "toast": {
+    "successUpdate": "Cập nhập thành công",
+    "errorUpdate": "Cập nhập thất bại",
+    "errorConfirmPassword": "Xác nhận mật khẩu không đúng",
+    "errorPassword": "Mật khẩu mới đang nhập trùng mật khẩu hiện tại",
+    "incorrectPassword": "Mật khẩu không đúng"
+  },
+  "account": {
+    "title01": "Thông tin tài khoản",
+    "title02": "Đổi mật khẩu",
+    "title03": "Đơn đặt phòng",
+    "title04": "Danh sách yêu thích",
+    "title05": "Nạp tiền",
+    "title06": "QUẢN LÝ TÀI KHOẢN",
+    "title07": "QUẢN LÝ GIAO DỊCH"
+  }
+}

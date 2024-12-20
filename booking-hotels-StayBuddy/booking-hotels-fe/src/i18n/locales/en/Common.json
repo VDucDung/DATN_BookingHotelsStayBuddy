@@ -1,0 +1,428 @@
+{
+  "pageTitle": {
+    "home": "Home",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "product": "Products",
+    "other": "Other",
+    "login": "Login",
+    "register": "Register",
+    "test": "Test",
+    "search": "Search",
+    "profile": "Profile",
+    "title": "Booking Hotels"
+  },
+  "home": {
+    "category": {
+      "ca01": "Explore Vietnam",
+      "ca02": "These popular destinations have a lot to offer"
+    },
+    "favoriteCardList": {
+      "fa01": "Homes guests love"
+    },
+    "hotelOldCardList": {
+      "ho01": "Stay at our top unique properties",
+      "ho02": "From traditional properties, or properties with long-standing traditions"
+    },
+    "relatedProducts": {
+      "re01": "List of Latest properties"
+    },
+    "hotelCardList": {
+      "ho01": "Still interested in these properties?"
+    },
+    "email": {
+      "title": "Register for email newsletters",
+      "inputPlaceholder": "Enter your email..."
+    },
+    "trendingDestinations": {
+      "title1": "Trending Destinations",
+      "desc1": "View all",
+      "title2": "View All",
+      "desc2": "Trending Destinations",
+      "title3": "Trending Destinations",
+      "desc3": "View all"
+    }
+  },
+  "detailPage": {
+    "de01": "Overview",
+    "de02": "Rooms",
+    "de03": "Locations",
+    "de04": "Utilities",
+    "de05": "Reviews"
+  },
+  "partnership": {
+    "banner": {
+      "title01": "List your vacation home on Booking hotel StayBuddy",
+      "title02": "Whether hosting is your side hustle or a full-time job, list your property today and start earning extra income quickly.",
+      "title03": "Register for free",
+      "title04": "45% of hosts receive bookings within a week",
+      "title05": "Choose between two booking options: instant confirmation or preview for approval",
+      "title06": "We’ll handle payments for you",
+      "title07": "Get started now"
+    },
+    "section1": {
+      "title01": "List with peace of mind",
+      "title02": "Damage Payment",
+      "title03": "Our damage compensation program covers your property in case of damage.",
+      "title04": "Receive payments regularly and securely",
+      "title05": "Guaranteed payment and fraud protection with our service",
+      "title06": "Payments by Booking Hotels StayBuddy",
+      "title07": "General property rules",
+      "title08": "Let potential guests know about your property's general rules that they must agree to in order to book.",
+      "title09": "Verified guests",
+      "title10": "We verify the email address and credit card of guests for partners using our service.",
+      "title11": "Payments by Booking Hotels StayBuddy",
+      "title12": "Choose your preferred booking method",
+      "title13": "Receive instant bookings from guests or",
+      "title14": "review booking requests",
+      "title15": "before accepting them.",
+      "title16": "Comprehensive support",
+      "title17": "Support available in 45 languages and manage your property through Pulse, our partner app.",
+      "title18": "Liability claim protection",
+      "title19": "Get protected against liability claims from guests and neighbors, up to 1,000,000 EUR/GBP/USD per booking."
+    },
+    "section2": {
+      "title01": "Stand out from the start",
+      "title02": "Import property reviews",
+      "title03": "We import review scores from other platforms and display them on your property's page on Booking Hotels StayBuddy.",
+      "title04": "Import property information",
+      "title05": "Easily import your property details and sync availability calendars with other platforms to avoid double bookings.",
+      "title06": "Stand out in the market",
+      "title07": "The 'New on Booking Hotels StayBuddy' label helps your property stand out in search results."
+    },
+    "section3": {
+      "title01": "What hosts like you say",
+      "title02": "Tôi có thể đăng trong vòng 15 phút và không quá hai giờ sau, tôi đã có đơn đặt phòng đầu tiên!",
+      "title03": "Vũ Dũng",
+      "title04": "Host ở Hà nội, Việt Nam",
+      "title05": "booking hotel StayBuddy chiếm lượng tỉ lệ lớn nhất trong tổng lượng khách của chỗ nghỉ và đã giúp chúng tôi gặt hái được thành quả như hôm nay.",
+      "title06": "Vũ Linh",
+      "title07": "Host ở Bắc Ninh, Việt Nam",
+      "title08": "booking hotel StayBuddy là nền tảng dễ hiểu, dễ làm việc nhất. Điều này tạo điều kiện để chúng tôi tập trung vào những khía cạnh mà mình có thể thực sự mang đến thêm giá trị.",
+      "title09": "Mạnh Đức",
+      "title10": "Host ở Sài Gòn, Việt Nam",
+      "title11": "Du khách đến từ khắp nơi trên thế giới và booking hotel StayBuddy đã góp phần rất nhiều trong việc này.",
+      "title12": "Nguyễn Hoàng",
+      "title13": "Host ở Đà Nẵng, Việt Nam",
+      "title14": "Sau khi hoàn tất cài đặt chỗ nghỉ trên Booking.com, tỉ lệ lấp phòng tăng vọt và khách đặt trước từ 5-6 tháng.",
+      "title15": "Phạm Chiến",
+      "title16": "Host ở Vũng Tàu, Việt Nam",
+      "title17": "Quá trình bắt đầu sử dụng booking hotel StayBuddy vô cùng đơn giản và không hề tốn thời gian.",
+      "title18": "Anh Đức",
+      "title19": "Host ở Quảng Ninh, Việt Nam"
+    },
+    "section4": {
+      "title01": "What if a guest damages my property?",
+      "title02": "Property owners can request a damage deposit from guests. These deposits help cover any damage caused by guests, giving you peace of mind that your property will be treated with care. If any issues arise, you can report the misconduct.",
+      "title03": "When will my property go online?",
+      "title04": "Once you've completed the property registration, you can make your property available for bookings on our platform. We may require you to verify your property before accepting bookings, but you can use this time to familiarize yourself with our extranet and prepare to welcome your first guests.",
+      "title05": "Still have questions? Find answers to all your queries on our",
+      "title06": "Frequently Asked Questions",
+      "title07": "page."
+    },
+    "signup": {
+      "title01": "Create a Partner Account",
+      "title02": "Create an account to register and manage your property.",
+      "title03": "Email Address",
+      "title04": "Continue",
+      "title05": "Do you have questions about your property or the extranet? Visit our",
+      "title06": "Partner Help Center",
+      "title07": "to learn more",
+      "title08": "Log In",
+      "title09": "By logging in or creating an account, you agree to our",
+      "title10": "Terms and Conditions",
+      "title11": "as well as",
+      "title12": "Safety and Privacy Policy",
+      "title13": "of ours",
+      "title14": "All rights reserved.",
+      "title15": "Copyright (2024) - booking hotels StayBuddy",
+      "invalidEmail": "Please enter a valid email address"
+    },
+    "contact": {
+      "title01": "Contact Information",
+      "title02": "To secure your Booking.com account, we need to know your full name and phone number.",
+      "title03": "Full Name",
+      "title04": "Last Name",
+      "title05": "Phone Number",
+      "title06": "We will send a two-factor authentication code to this number when you log in.",
+      "title07": "Next"
+    },
+    "password": {
+      "title01": "Create Password",
+      "title02": "Use at least 10 characters, including uppercase letters, lowercase letters, and numbers.",
+      "title03": "Password",
+      "title04": "Enter password again",
+      "title05": "Confirm Password",
+      "title06": "Re-enter password",
+      "title07": "Create Account",
+      "title08": "Log In",
+      "title09": "By logging in or creating an account, you agree to our",
+      "title10": "Terms and Conditions",
+      "title11": "as well as",
+      "title12": "Safety and Privacy Policy",
+      "title13": "of our platform"
+    },
+    "verify": {
+      "title01": "Account Verification",
+      "title02": "We have sent a verification email to",
+      "title03": "To verify your account, please click the link in the email we just sent."
+    },
+    "signin": {
+      "title01": "Log in to manage your property",
+      "title03": "Email address",
+      "title04": "Next",
+      "title05": "Have questions about your property or extranet? Visit the",
+      "title06": "Partner Help Center",
+      "title07": "to learn more.",
+      "title08": "Create a partner account",
+      "title09": "By signing in or creating an account, you agree to the",
+      "title10": "Terms and Conditions",
+      "title11": "as well as the",
+      "title12": "Safety and Security Policy",
+      "title13": "of ours",
+      "title14": "All rights reserved.",
+      "title15": "Copyright (2024) - booking hotels StayBuddy",
+      "invalidEmail": "Please enter a valid email address",
+      "password": {
+        "title01": "Enter your password",
+        "title02": "Please enter your Booking.com password for",
+        "title03": "Password",
+        "title04": "Enter your password",
+        "title05": "Sign In",
+        "title06": "Forgot your password?",
+        "title07": "By signing in or creating an account, you agree to the",
+        "title08": "Terms and Conditions",
+        "title09": "as well as the",
+        "title10": "Safety and Security Policy",
+        "title11": "of ours",
+        "title12": "All rights reserved.",
+        "title13": "Copyright (2024) - booking hotels StayBuddy"
+      }
+    },
+    "se01": "List with peace of mind",
+    "se02": "Stand out from the start",
+    "se03": "What hosts like you say",
+    "se04": "Your questions answered"
+  },
+  "header": {
+    "na01": "List your property",
+    "na02": "Login/Register",
+    "na03": "List your favorites",
+    "na04": "Find your next stay",
+    "na05": "Find hotel deals, accommodations and more...",
+    "na06": "Where are you going?",
+    "na07": "Adults",
+    "na08": "Children",
+    "na09": "Rooms",
+    "na10": "Search"
+  },
+  "errors": {
+    "err01": "Please enter email.",
+    "err02": "Email is incorrect, please re-enter.",
+    "err03": "Please enter password.",
+    "err04": "Password must contain at least 6 characters and 1 special character @-_",
+    "err05": "Please enter full name",
+    "err06": "Incorrect confirm password, please re-enter",
+    "err07": "Please re-enter password",
+    "err08": "The phone number is incorrect, please re-enter",
+    "err09": "Please enter the content",
+    "err10": "Content from 5 to 500 characters",
+    "err11": "Please enter your Email",
+    "err12": "Password mismatch",
+    "phoneNumber": {
+      "err01": "Please enter your phone number.",
+      "err02": "Invalid phone number."
+    },
+    "fullName": {
+      "err01": "Please enter your full name."
+    },
+    "birthDay": {
+      "err01": "Please enter your date of birth.",
+      "err02": "Date of birth cannot be later than today.",
+      "err03": "You must be at least 18 years old to use our service.",
+      "err04": "Sorry, you are too old to use our service."
+    },
+    "password": {
+      "err01": "Password must be at least 8 characters long and contain at least 1 special character.",
+      "err02": "Confirmation password does not match"
+    }
+  },
+  "login": {
+    "heading": "Login",
+    "desc01": "Welcome back. Sign in to continue booking.",
+    "desc02": "You don't have an account",
+    "notify01": "Login successful",
+    "notify02": "Successfully logged out",
+    "notify03": "You are already logged in",
+    "notify04": "Email or password incorrect",
+    "notify05": "Please enter complete information"
+  },
+  "register": {
+    "heading": "Register",
+    "desc01": "Let's start creating a new account to fully experience our features and services.",
+    "desc02": "You already have an account",
+    "notify": "Registration successful, please verify your email"
+  },
+  "footer": {
+    "na01": "About Us",
+    "na02": "Help",
+    "na03": "Terms of Use",
+    "na04": "Privacy Policy",
+    "na05": "Contact Us",
+    "na06": "Frequently Asked Questions",
+    "na07": "Become Our Partner",
+    "na08": "List your property",
+    "na09": "Copyright © 2024 Booking Hotels. All rights reserved."
+  },
+  "button": {
+    "btn01": "Checkout",
+    "btn02": "Login to place room",
+    "btn03": "Delete all",
+    "btn04": "Login",
+    "btn05": "Sign in with Google",
+    "btn06": "Register",
+    "btn07": "Send verification code",
+    "btn08": "Sending verification code...",
+    "btn09": "Verify",
+    "btn10": "Verifying...",
+    "btn11": "Reset",
+    "btn12": "Go to home page",
+    "btn13": "Learn more",
+    "btn14": "Send",
+    "btn15": "Complete",
+    "btn16": "Delete",
+    "btn17": "Save changes",
+    "btn18": "Cancel"
+  },
+  "form": {
+    "tp01": "Email",
+    "tp02": "Password",
+    "tp03": "Full name",
+    "tp04": "Re-enter password",
+    "tp05": "Phone",
+    "tp06": "Content",
+    "lb01": "Show password"
+  },
+  "forgot-password": {
+    "heading": "Recover password",
+    "desc01": "Send a forgotten password verification code via email.",
+    "desc02": "You remembered the password"
+  },
+  "verify-otp": {
+    "heading": "Verify OTP",
+    "desc01": "Enter the OTP sent to your email."
+  },
+  "reset-password": {
+    "heading": "Reset Password",
+    "desc01": "Please enter your new password in the box below."
+  },
+  "user-options": {
+    "op01": "Profile page",
+    "op02": "My booking",
+    "op03": "Log Out",
+    "op04": "Dashboard"
+  },
+  "profile": {
+    "registered": "Registration:",
+    "fullName": "Full Name:",
+    "email": "Email:",
+    "phoneNumber": "Phone Number:",
+    "birthDay": "Date of Birth:",
+    "oldPassword": "Old Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm New Password",
+    "info": "Account Information",
+    "passwordChange": "Password Change",
+    "navTitle01": "Account Management",
+    "navTitle02": "Customer Support",
+    "navTitle03": "Purchase & Top-Up Orders",
+    "nav01": "Personal Information",
+    "nav02": "Change Password",
+    "nav03": "Help",
+    "nav04": "Terms of Use",
+    "nav05": "Two-Factor Authentication",
+    "nav06": "Purchase Order",
+    "nav07": "Top-Up",
+    "btn-update": "Update",
+    "btn-cancel": "Cancel",
+    "btn-edit": "Edit",
+    "btn-select-img": "Select Image",
+    "toast": {
+      "noChanged": "No changes have been made.",
+      "noExactly": "Please check the information again and enter in the correct format.",
+      "successed": "Update successful.",
+      "error": "Update failed.",
+      "noExactlyPasswords": "Incorrect old password"
+    }
+  },
+  "hotelDetails": {
+    "overview": {
+      "title01": "Select room"
+    },
+    "room": {
+      "title01": "Reserve",
+      "title02": "See Room Details"
+    }
+  },
+  "dashboard": {
+    "title01": "dashboard",
+    "title02": "Bookings",
+    "title03": "Hotels",
+    "title04": "Room Type",
+    "title05": "Rooms",
+    "title06": "Ratings",
+    "booking": {
+      "title01": "Edit Booking",
+      "title02": "Guest Full Name",
+      "title03": "Options",
+      "title04": "Check-in Time",
+      "title05": "Check-out Time",
+      "title06": "Check-in Date",
+      "title07": "Check-out Date",
+      "title08": "Amount",
+      "title09": "Payment Methods",
+      "title10": "Status",
+      "title11": "Paid",
+      "title12": "Pending",
+      "title13": "Cancel",
+      "title14": "Save",
+      "title15": "Capacity",
+      "title16": "Room",
+      "title17": "Date",
+      "title18": "Check-in",
+      "title19": "Check-out",
+      "title20": "Price"
+    },
+    "hotel": {
+      "title01": "Hotel",
+      "title02": "Add hotel"
+    },
+    "confirmDelete": {
+      "title01": "Confirm Deletion",
+      "title02": "Are you sure you want to delete? This action cannot be undone.",
+      "title03": "Cancel",
+      "title04": "Confirm"
+    }
+  },
+  "reqquired": {
+    "err01": "Fullname is required.",
+    "err02": "Phone is required.",
+    "err03": "Date of birth is required."
+  },
+  "toast": {
+    "successUpdate": "Update successful",
+    "errorUpdate": "Update failed",
+    "errorConfirmPassword": "Confirm password incorrect",
+    "errorPassword": "The new password is entering the same current password",
+    "incorrectPassword": "Password is not a valid password"
+  },
+  "account": {
+    "title01": "Account Information",
+    "title02": "Change Password",
+    "title03": "Booking",
+    "title04": "List of favorites",
+    "title05": "Top-Up",
+    "title06": "ACCOUNT MANAGEMENT",
+    "title07": "TRADE MANAGEMENT"
+  }
+}
